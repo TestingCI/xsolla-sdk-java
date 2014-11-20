@@ -1,4 +1,5 @@
 language: java
+
 script: cd sdk ; mvn test
 
 before_script: mvn --version
