@@ -12,3 +12,4 @@ jdk:
 matrix:
   allow_failures:
     - jdk: oraclejdk8
+cache: true
