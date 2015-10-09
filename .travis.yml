@@ -9,7 +9,10 @@ jdk:
   - openjdk7
   - oraclejdk8
 
+
 matrix:
   allow_failures:
     - jdk: oraclejdk8
 cache: true
+
+archive: true
